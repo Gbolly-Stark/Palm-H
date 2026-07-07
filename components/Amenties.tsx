@@ -14,7 +14,7 @@ const Amenties = () => {
             Premium Experience
           </p>
 
-          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-white">
+          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-cyan-400 leading-tight">
             Luxury Amenities
           </h2>
 
@@ -43,7 +43,7 @@ const Amenties = () => {
 
               <div className="p-6">
 
-                <h3 className="text-2xl font-bold text-white text-center">
+                <h3 className="text-2xl font-bold text-cyan-400 text-center">
                   {amenity.title}
                 </h3>
 
