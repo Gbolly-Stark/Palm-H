@@ -12,7 +12,7 @@ const Location = () => {
             Find Us
           </p>
 
-          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-white">
+          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-black">
             Our Location
           </h2>
 

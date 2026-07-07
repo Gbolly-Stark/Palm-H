@@ -16,7 +16,7 @@ const Amenities = () => {
           </p>
 
 
-          <h2 className="mt-4 text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-cyan-400 leading-tight">
+          <h2 className="mt-4 text-3xl lg:text-6xl font-bold text-black ">
             Luxury Amenities
           </h2>
 
@@ -53,7 +53,7 @@ const Amenities = () => {
 
               <div className="p-5 sm:p-6">
 
-                <h3 className="text-xl sm:text-2xl font-bold text-cyan-400 text-center">
+                <h3 className="text-2xl  font-bold text-cyan-400 text-center">
                   {amenity.title}
                 </h3>
 

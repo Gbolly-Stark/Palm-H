@@ -19,7 +19,7 @@ const Hero = () => {
           <h1 className="text-lg sm:text-xl md:text-2xl font-black tracking-[4px] uppercase">
             Palm Horizon
           </h1>
-<h2 className="mt-6 px-4 text-center font-black leading-tight text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl">
+<h2 className="mt-6 px-4 text-center font-black text-3xl">
   <span className="block bg-gradient-to-r from-white via-blue-200 to-cyan-300 bg-clip-text text-transparent">
     Luxury
   </span>
