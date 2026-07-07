@@ -20,18 +20,21 @@ const Hero = () => {
             Palm Horizon
           </h1>
 
-          <h2 className="mt-6 font-black leading-tight text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl">
-            <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
-              Luxury
-            </span>{" "}
-            <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-              Meets
-            </span>
-            <br />
-            <span className="bg-gradient-to-r from-cyan-300 to-blue-400 bg-clip-text text-transparent">
-              Nature
-            </span>
-          </h2>
+         <h2 className="mt-6 font-black leading-tight text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl">
+  <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
+    Luxury
+  </span>{" "}
+
+  <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
+    Meets
+  </span>
+
+  <br className="hidden sm:block" />
+
+  <span className="bg-gradient-to-r from-cyan-300 to-blue-400 bg-clip-text text-transparent">
+    Nature
+  </span>
+</h2>
 
           <p className="mt-6 max-w-2xl mx-auto text-sm sm:text-base md:text-lg text-gray-200">
             Escape to a world of breathtaking ocean views, luxury suites,

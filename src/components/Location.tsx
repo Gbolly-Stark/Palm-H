@@ -41,7 +41,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-xl font-bold text-white mb-3">
+            <h3 className="text-xl font-bold text-cyan-400 mb-3">
               Address
             </h3>
 
@@ -58,7 +58,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-xl font-bold text-white mb-3">
+            <h3 className="text-xl font-bold text-cyan-400 mb-3">
               Contact
             </h3>
 
@@ -75,7 +75,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-xl font-bold text-white mb-3">
+            <h3 className="text-xl font-bold text-cyan-400 mb-3">
               Opening Hours
             </h3>
 
@@ -112,7 +112,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-white text-xl font-semibold">
+            <h3 className="text-cyan-400 text-xl font-semibold">
               What time is check-in and check-out?
             </h3>
 
@@ -125,7 +125,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-white text-xl font-semibold">
+            <h3 className="text-cyan-400 text-xl font-semibold">
               Is breakfast included?
             </h3>
 
@@ -138,7 +138,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-white text-xl font-semibold">
+            <h3 className="text-cyan-400 text-xl font-semibold">
               Do you offer airport transfers?
             </h3>
 
@@ -151,7 +151,7 @@ const Location = () => {
 
           <div className="bg-white/10 backdrop-blur-md rounded-2xl p-6 border border-cyan-400/20 hover:-translate-y-2 hover:border-cyan-400/50 transition-all duration-300">
 
-            <h3 className="text-white text-xl font-semibold">
+            <h3 className="text-cyan-400 text-xl font-semibold">
               Is the resort family friendly?
             </h3>
 

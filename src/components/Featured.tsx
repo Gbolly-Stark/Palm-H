@@ -14,9 +14,9 @@ const Featured = () => {
             Luxury Experience
           </p>
 
-          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-white">
-            Featured Rooms & Suites
-          </h2>
+         <h2 className="mt-4 text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-black leading-tight">
+  Featured Rooms & Suites
+</h2>
 
           <p className="text-gray-300 max-w-2xl mx-auto mt-6 leading-7">
             Discover our most luxurious accommodations designed for comfort,
@@ -43,7 +43,7 @@ const Featured = () => {
 
               <div className="flex flex-col flex-1 p-6">
 
-                <h3 className="text-2xl font-bold text-white">
+                <h3 className="text-2xl font-bold text-cyan-400">
                   {room.title}
                 </h3>
 
