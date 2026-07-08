@@ -16,7 +16,7 @@ const Amenities = () => {
           </p>
 
 
-          <h2 className="mt-4 text-3xl lg:text-6xl font-bold text-cyan-400">
+          <h2 className="mt-4 text-3xl lg:text-6xl font-bold text-blue-700">
             Luxury Amenities
           </h2>
 

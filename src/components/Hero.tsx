@@ -19,7 +19,7 @@ const Hero = () => {
           <h1 className="text-lg sm:text-xl md:text-2xl font-black tracking-[4px] uppercase">
             Palm Horizon
           </h1>
-<h2 className="mt-6 px-4 text-center font-black text-cyan-400 text-3xl">
+<h2 className="mt-6 px-4 text-center font-black text-cyan-400 text-5xl">
   Luxury Meet Nature
 </h2>
 

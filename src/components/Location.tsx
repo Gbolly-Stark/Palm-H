@@ -12,7 +12,7 @@ const Location = () => {
             Find Us
           </p>
 
-          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-black">
+          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-shadow-blue-700">
             Our Location
           </h2>
 
@@ -101,7 +101,7 @@ const Location = () => {
             Need Help?
           </p>
 
-          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-white">
+          <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-bold text-shadow-blue-700">
             Frequently Asked Questions
           </h2>
 
