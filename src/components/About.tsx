@@ -8,7 +8,7 @@ const About = () => {
         About
       </p>
 
-      <h2 className="mt-3 text-3xl sm:text-4xl lg:text-5xl text-cyan-700 font-bold">
+      <h2 className="mt-3 text-3xl sm:text-4xl lg:text-5xl text-black font-bold">
         From Dream To Staycation
       </h2>
 

@@ -3,8 +3,9 @@ const Hero = () => {
     <section className="relative h-screen w-full overflow-hidden">
 
       <video
-        autoPlay
+        
         loop
+        autoPlay
         muted
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
