@@ -14,26 +14,13 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black/45"></div>
 
       <div className="relative z-10 flex h-full items-center justify-center px-6">
-        <div className="max-w-5xl text-center">
+        <div className="max-w-7xl text-center">
 
           <h1 className="text-lg sm:text-xl md:text-2xl font-black tracking-[4px] uppercase">
             Palm Horizon
           </h1>
-
-         <h2 className="mt-6 font-black leading-tight text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl">
-  <span className="bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
-    Luxury
-  </span>{" "}
-
-  <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-    Meets
-  </span>
-
-  <br className="hidden sm:block" />
-
-  <span className="bg-gradient-to-r from-cyan-300 to-blue-400 bg-clip-text text-transparent">
-    Nature
-  </span>
+<h2 className="mt-6 px-4 text-center font-black text-cyan-400 text-3xl">
+  Luxury Meet Nature
 </h2>
 
           <p className="mt-6 max-w-2xl mx-auto text-sm sm:text-base md:text-lg text-gray-200">
